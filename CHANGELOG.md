@@ -9,3 +9,5 @@ Formato basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/) y 
 - Plantillas de issues y pull requests, CI y Dependabot.
 
 - Ajuste menor de documentación 1.
+
+- Ajuste menor de documentación 2.
