@@ -1,0 +1,13 @@
+{
+  "name": "recetacosto",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Costeo de recetas para panaderías, pastelerías y cocinas: costo por porción, merma y precio de venta sugerido.",
+  "license": "MIT",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "test": "jest --passWithNoTests",
+    "typecheck": "tsc --noEmit"
+  }
+}
