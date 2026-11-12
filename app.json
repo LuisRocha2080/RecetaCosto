@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "RecetaCosto",
+    "slug": "recetacosto",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "scheme": "recetacosto",
+    "plugins": [
+      "expo-router",
+      "expo-sqlite"
+    ],
+    "android": {
+      "package": "com.luisrocha2080.recetacosto"
+    },
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
