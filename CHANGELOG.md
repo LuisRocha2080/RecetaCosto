@@ -11,3 +11,5 @@ Formato basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/) y 
 - Ajuste menor de documentación 1.
 
 - Ajuste menor de documentación 2.
+
+- Ajuste menor de documentación 3.
